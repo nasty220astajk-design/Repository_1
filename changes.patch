@@ -1,0 +1,7 @@
+diff --git a/file.txt b/file.txt
+index 347fcbd..4c53d4d 100644
+--- a/file.txt
++++ b/file.txt
+@@ -1 +1,2 @@
+ новая строка в файле
++еще одна новая строка в файле
